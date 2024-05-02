@@ -1,0 +1,17 @@
+﻿@using DibaEShop.Utility;
+<!DOCTYPE html>
+<html class="no-js" dir="rtl" lang="fa-IR">
+<head>
+    <title>@ViewData["Title"] - DibaEShop</title>
+    <partial name="_MetaTags" />
+    <partial name="_Styles" />
+
+</head>
+<body>
+    <partial name="_navBar" />
+    <div class="m-3"> @RenderBody()</div>
+    <partial name="_Footer" />
+    <partial name="_Scripts" />
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

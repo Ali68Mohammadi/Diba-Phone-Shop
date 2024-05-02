@@ -1,0 +1,24 @@
+﻿@model DibaEShop.Models.Product
+
+  <div class=" col-md-4 term-col ">
+
+
+    <div class="  box-border m-2 " >
+        <div class="card p-2  card-size">
+            <img src="@Model.ImageUrl" class="image-size" />
+            <div class="card-body text-center overflow-hidden">
+                <p>@Model.Title</p>
+                <div class="text-center">
+                    <p class="card-text">@Model.Description</p>
+                    <p class="card-text">"$" price:@Model.Price </p>
+
+                </div>
+            </div>
+            <div>
+                <a class="btn   btn-primary form-control" asp-area="Customer" asp-controller="Home"
+                   asp-action="Details" asp-route-productId="@Model.ProductId">Details</a>
+            </div>
+
+        </div>
+    </div>
+</div>

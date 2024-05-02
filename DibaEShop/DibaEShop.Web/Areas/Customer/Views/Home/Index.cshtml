@@ -1,0 +1,25 @@
+﻿@model IEnumerable<DibaEShop.Models.Product>
+@{
+    ViewData["Title"] = "Home Page";
+}
+<div class="landing-layer  ">
+</div>
+<div class="container-fluid m-2 ">
+    <div class="row ">
+        <div class="col-3 ">
+            @await Component.InvokeAsync("CategoryGroupComponent")
+        </div>
+        <div class="col-9">
+            <div class="row">
+                @foreach (var item in Model)
+                {
+                    <partial name="_ProductBox" model="@item" />
+                }
+            </div>
+
+        </div>
+
+    </div>
+</div>
+</div>
+

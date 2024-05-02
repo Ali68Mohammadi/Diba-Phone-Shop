@@ -1,0 +1,26 @@
+﻿@model IEnumerable< DibaEShop.Models.Product>
+@{
+    ViewData["Title"] = "products";
+
+}
+<h3 class=" text-black">product of @ViewData["category"] </h3>
+
+
+
+
+<div class="container" >
+    <section class="terms-items">
+        <div >
+        <div class="row" >
+            @foreach (var item in Model)
+            {
+                <partial name="_ProductBox" model="@item" />
+            }
+            </div>
+        </div>
+    </section>
+
+    <hr>
+
+
+</div>

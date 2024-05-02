@@ -1,0 +1,180 @@
+E:\amozesh\.net Core Razor Pages-khorasani\DibaEShop\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.deps.json
+E:\amozesh\.net Core Razor Pages-khorasani\DibaEShop\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\DibaEShop\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.pdb
+E:\amozesh\.net Core Razor Pages-khorasani\DibaEShop\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.csproj.AssemblyReference.cache
+E:\amozesh\.net Core Razor Pages-khorasani\DibaEShop\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\amozesh\.net Core Razor Pages-khorasani\DibaEShop\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.AssemblyInfoInputs.cache
+E:\amozesh\.net Core Razor Pages-khorasani\DibaEShop\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.AssemblyInfo.cs
+E:\amozesh\.net Core Razor Pages-khorasani\DibaEShop\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.csproj.CoreCompileInputs.cache
+E:\amozesh\.net Core Razor Pages-khorasani\DibaEShop\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\DibaEShop\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\refint\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\DibaEShop\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.pdb
+E:\amozesh\.net Core Razor Pages-khorasani\DibaEShop\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\ref\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.deps.json
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.pdb
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.csproj.AssemblyReference.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.AssemblyInfoInputs.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.AssemblyInfo.cs
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.csproj.CoreCompileInputs.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\refint\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.pdb
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\ref\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 2\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.deps.json
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 2\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 2\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.pdb
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 2\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.csproj.AssemblyReference.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 2\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 2\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.AssemblyInfoInputs.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 2\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.AssemblyInfo.cs
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 2\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.csproj.CoreCompileInputs.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 2\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 2\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\refint\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 2\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.pdb
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 2\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\ref\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 3\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.deps.json
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 3\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 3\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.pdb
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 3\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.csproj.AssemblyReference.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 3\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 3\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.AssemblyInfoInputs.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 3\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.AssemblyInfo.cs
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 3\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.csproj.CoreCompileInputs.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 3\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 3\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\refint\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 3\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.pdb
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 3\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\ref\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 4\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.deps.json
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 4\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 4\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.pdb
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 4\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.csproj.AssemblyReference.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 4\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 4\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.AssemblyInfoInputs.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 4\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.AssemblyInfo.cs
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 4\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.csproj.CoreCompileInputs.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 4\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 4\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\refint\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 4\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.pdb
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 4\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\ref\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 5\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.deps.json
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 5\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 5\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.pdb
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 5\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.csproj.AssemblyReference.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 5\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 5\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.AssemblyInfoInputs.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 5\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.AssemblyInfo.cs
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 5\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.csproj.CoreCompileInputs.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 5\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 5\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\refint\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 5\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.pdb
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 5\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\ref\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 6\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.deps.json
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 6\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 6\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.pdb
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 6\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.csproj.AssemblyReference.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 6\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 6\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.AssemblyInfoInputs.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 6\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.AssemblyInfo.cs
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 6\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.csproj.CoreCompileInputs.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 6\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 6\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\refint\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 6\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.pdb
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 6\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\ref\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 7\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.deps.json
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 7\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 7\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.pdb
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 7\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.csproj.AssemblyReference.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 7\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 7\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.AssemblyInfoInputs.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 7\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.AssemblyInfo.cs
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 7\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.csproj.CoreCompileInputs.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 7\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 7\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\refint\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 7\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.pdb
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 7\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\ref\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 7 -add Send EMail\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.deps.json
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 7 -add Send EMail\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 7 -add Send EMail\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.pdb
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 7 -add Send EMail\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.csproj.AssemblyReference.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 7 -add Send EMail\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 7 -add Send EMail\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.AssemblyInfoInputs.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 7 -add Send EMail\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.AssemblyInfo.cs
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 7 -add Send EMail\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.csproj.CoreCompileInputs.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 7 -add Send EMail\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 7 -add Send EMail\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\refint\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 7 -add Send EMail\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.pdb
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - 7 -add Send EMail\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\ref\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - Category Group Component\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.deps.json
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - Category Group Component\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - Category Group Component\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.pdb
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - Category Group Component\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.csproj.AssemblyReference.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - Category Group Component\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - Category Group Component\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.AssemblyInfoInputs.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - Category Group Component\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.AssemblyInfo.cs
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - Category Group Component\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.csproj.CoreCompileInputs.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - Category Group Component\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - Category Group Component\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\refint\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - Category Group Component\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.pdb
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop - Category Group Component\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\ref\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-10-stimul report\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.deps.json
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-10-stimul report\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-10-stimul report\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.pdb
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-10-stimul report\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.csproj.AssemblyReference.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-10-stimul report\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-10-stimul report\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.AssemblyInfoInputs.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-10-stimul report\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.AssemblyInfo.cs
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-10-stimul report\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.csproj.CoreCompileInputs.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-10-stimul report\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-10-stimul report\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\refint\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-10-stimul report\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.pdb
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-10-stimul report\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\ref\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-Finaly\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.deps.json
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-Finaly\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-Finaly\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.pdb
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-Finaly\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.csproj.AssemblyReference.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-Finaly\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-Finaly\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.AssemblyInfoInputs.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-Finaly\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.AssemblyInfo.cs
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-Finaly\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.csproj.CoreCompileInputs.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-Finaly\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-Finaly\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\refint\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-Finaly\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.pdb
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-Finaly\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\ref\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-Finaly - Copy\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.deps.json
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-Finaly - Copy\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-Finaly - Copy\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.pdb
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-Finaly - Copy\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.csproj.AssemblyReference.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-Finaly - Copy\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-Finaly - Copy\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.AssemblyInfoInputs.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-Finaly - Copy\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.AssemblyInfo.cs
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-Finaly - Copy\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.csproj.CoreCompileInputs.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-Finaly - Copy\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-Finaly - Copy\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\refint\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-Finaly - Copy\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.pdb
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-Finaly - Copy\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\ref\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-advanced\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.deps.json
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-advanced\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-advanced\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.pdb
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-advanced\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.csproj.AssemblyReference.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-advanced\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-advanced\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.AssemblyInfoInputs.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-advanced\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.AssemblyInfo.cs
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-advanced\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.csproj.CoreCompileInputs.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-advanced\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-advanced\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\refint\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-advanced\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.pdb
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-advanced\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\ref\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-13-soft delete\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.deps.json
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-13-soft delete\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-13-soft delete\DibaEShop\DibaEShop.Models\bin\Debug\net6.0\DibaEShop.Models.pdb
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-13-soft delete\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.csproj.AssemblyReference.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-13-soft delete\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-13-soft delete\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.AssemblyInfoInputs.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-13-soft delete\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.AssemblyInfo.cs
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-13-soft delete\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.csproj.CoreCompileInputs.cache
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-13-soft delete\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-13-soft delete\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\refint\DibaEShop.Models.dll
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-13-soft delete\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\DibaEShop.Models.pdb
+E:\amozesh\.net Core Razor Pages-khorasani\_Project\DibaEShop-13-soft delete\DibaEShop\DibaEShop.Models\obj\Debug\net6.0\ref\DibaEShop.Models.dll

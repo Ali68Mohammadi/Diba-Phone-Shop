@@ -1,0 +1,47 @@
+﻿@model IEnumerable<DibaEShop.Models.Category>;
+@{
+    ViewData["Title"] = "index";
+}
+
+<div class="row">
+    <div class="col-md-6"><h2 >Category List</h2></div>
+    <div class="col-md-3    ">
+        <a class="btn btn-primary" asp-controller="Category" asp-action="CreateCategory">Create Category</a>
+    </div>
+</div>
+<div class="border p-3 m-4">
+    <table class="table table-striped ">
+        <thead >
+            <tr >
+                <th scope="col">Category Name</th>
+                <th scope="col">Display Order</th>
+                <th scope="col">Create Time</th>
+                <th scope="col">Action</th>
+            </tr>
+        </thead>
+        <tbody class="text-bg-info ">
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td >@item.Name</td>
+                    <td>@item.DisplayOrder</td>
+                    <td>@item.CreatedTime</td>
+                    <td>
+                        <a class="btn btn-danger" asp-controller="Category" asp-action="DeleteCategory"
+                       asp-route-id="@item.CategoryId"><i class=""></i>Delete</a>
+                        <a class="btn btn-primary" asp-controller="Category" asp-action="EditCategory"
+                       asp-route-id="@item.CategoryId"><i class="  "></i>Edit</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+@*toaster notification*@
+@section Scripts{
+    @{
+        <partial name="_Notification" />
+
+    }
+}

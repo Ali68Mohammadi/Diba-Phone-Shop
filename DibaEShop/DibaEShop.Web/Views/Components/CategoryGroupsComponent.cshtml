@@ -1,0 +1,16 @@
+﻿@model List<DibaEShop.Models.Category>
+@inject DibaEShop.DataAccess.Repository.IRepository.IUnitOfWork _unitOfWork
+<ul class="list-group">
+    @foreach (var item in Model)
+    {
+        var productCount = _unitOfWork.Product.GetAll(p => p.CategoryId == item.CategoryId).Count();
+        <li class="list-group-item d-flex justify-content-between align-items-center">
+            <a class="text-decoration-none" asp-area="Customer" asp-controller="Group" asp-action="Index" asp-route-category="@item.Name" >@item.Name</a>
+            <label > @productCount</label>
+        </li>
+    }
+</ul>
+
+
+
+

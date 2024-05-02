@@ -1,0 +1,16 @@
+﻿@model List< DibaEShop.Models.Product>
+@{
+    ViewData["Title"] = "SearchProduct";
+}
+
+<div class="row">
+
+    <div class="col-9">
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <partial name="_ProductBox" model="@item" />
+            }
+        </div>
+    </div>
+</div>

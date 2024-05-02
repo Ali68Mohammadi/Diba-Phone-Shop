@@ -1,0 +1,493 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\Reports\\Report.mrt",
+      "PackagePath": "staticwebassets\\Reports\\Report.mrt"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\Reports\\license.key",
+      "PackagePath": "staticwebassets\\Reports\\license.key"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\css\\SweeetAlert.css",
+      "PackagePath": "staticwebassets\\css\\SweeetAlert.css"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\css\\_bootswatch(1).scss",
+      "PackagePath": "staticwebassets\\css\\_bootswatch(1).scss"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\css\\_variables(2).scss",
+      "PackagePath": "staticwebassets\\css\\_variables(2).scss"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\css\\bootstrap.min(4).css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min(4).css"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\css\\bootswatchThem.css",
+      "PackagePath": "staticwebassets\\css\\bootswatchThem.css"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\css\\datatable.css",
+      "PackagePath": "staticwebassets\\css\\datatable.css"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\css\\productBox.css",
+      "PackagePath": "staticwebassets\\css\\productBox.css"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\css\\toastr.min.css",
+      "PackagePath": "staticwebassets\\css\\toastr.min.css"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\fonts\\BYekan-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\BYekan-webfont.eot"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\fonts\\BYekan-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\BYekan-webfont.ttf"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\fonts\\BYekan-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\BYekan-webfont.woff"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\images\\Best-Mobile-Brands.webp",
+      "PackagePath": "staticwebassets\\images\\Best-Mobile-Brands.webp"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\images\\homePage.png",
+      "PackagePath": "staticwebassets\\images\\homePage.png"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\images\\payment-cancelled.jpg",
+      "PackagePath": "staticwebassets\\images\\payment-cancelled.jpg"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\images\\payment-done.jpg",
+      "PackagePath": "staticwebassets\\images\\payment-done.jpg"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\images\\pp-696x389.jpg",
+      "PackagePath": "staticwebassets\\images\\pp-696x389.jpg"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\images\\product\\0405e6bf-4cd0-4169-bb98-a7fd9fe7d103.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\0405e6bf-4cd0-4169-bb98-a7fd9fe7d103.jpg"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\images\\product\\0f996af0-ea64-4aa9-b5e2-350cd8dfca5a.webp",
+      "PackagePath": "staticwebassets\\images\\product\\0f996af0-ea64-4aa9-b5e2-350cd8dfca5a.webp"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\images\\product\\15dce028-a33f-412a-a535-03285843c6b1.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\15dce028-a33f-412a-a535-03285843c6b1.jpg"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\images\\product\\16a3f12d-f287-41a9-9b6c-382cfea6b157.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\16a3f12d-f287-41a9-9b6c-382cfea6b157.jpg"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\images\\product\\1b518390-5a2e-4445-86e4-8674c431ea27.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\1b518390-5a2e-4445-86e4-8674c431ea27.jpg"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\images\\product\\1eeddc21-6c29-4274-acc7-ebe282b0bc40.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\1eeddc21-6c29-4274-acc7-ebe282b0bc40.jpg"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\images\\product\\2198517a-7ce6-4e85-b693-38ea78b48faa.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\2198517a-7ce6-4e85-b693-38ea78b48faa.jpg"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\images\\product\\21a9d89e-3e93-4742-a9ba-ba066b17f98b.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\21a9d89e-3e93-4742-a9ba-ba066b17f98b.jpg"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\images\\product\\259c1338-d912-4533-b5f9-91a73d922e6c.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\259c1338-d912-4533-b5f9-91a73d922e6c.jpg"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\images\\product\\2649a116-a46e-4d1d-bb08-20143bd8bd94.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\2649a116-a46e-4d1d-bb08-20143bd8bd94.jpg"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\images\\product\\2e42ec33-b9fe-44da-838d-8de514142855.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\2e42ec33-b9fe-44da-838d-8de514142855.jpg"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\images\\product\\367fdef2-e281-4f3d-b8fe-3a28e8d49c0a.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\367fdef2-e281-4f3d-b8fe-3a28e8d49c0a.jpg"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\images\\product\\44b8527b-6bcb-4685-a8c0-26601cd80636.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\44b8527b-6bcb-4685-a8c0-26601cd80636.jpg"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\images\\product\\481610d5-404a-4feb-87d2-9e6f0e062c75.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\481610d5-404a-4feb-87d2-9e6f0e062c75.jpg"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\images\\product\\49af487f-cfbf-47c1-9087-ee82d8af1cd2.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\49af487f-cfbf-47c1-9087-ee82d8af1cd2.jpg"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\images\\product\\4f8301fe-a662-4719-8a9c-d3cf71da63bc.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\4f8301fe-a662-4719-8a9c-d3cf71da63bc.jpg"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\images\\product\\6b28f0c1-c0c3-477f-89c0-0079a0e307e6.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\6b28f0c1-c0c3-477f-89c0-0079a0e307e6.jpg"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\images\\product\\6f009005-0640-4745-97d0-3a5ab8822078.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\6f009005-0640-4745-97d0-3a5ab8822078.jpg"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\images\\product\\755aa44d-ca47-4961-bc52-98621c5d789e.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\755aa44d-ca47-4961-bc52-98621c5d789e.jpg"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\images\\product\\7651751a-c85e-487d-8924-c4bd6143b2cf.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\7651751a-c85e-487d-8924-c4bd6143b2cf.jpg"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\images\\product\\88a46156-e054-4f25-9a73-d7e96e146410.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\88a46156-e054-4f25-9a73-d7e96e146410.jpg"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\images\\product\\916cc279-bf94-4529-8913-347f863b7156.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\916cc279-bf94-4529-8913-347f863b7156.jpg"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\images\\product\\ace2c58b-54d0-4a87-8a8e-e5d27fbbc2a1.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\ace2c58b-54d0-4a87-8a8e-e5d27fbbc2a1.jpg"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\images\\product\\b3016097-9dbb-4cb6-85e8-263ea6ae12df.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\b3016097-9dbb-4cb6-85e8-263ea6ae12df.jpg"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\images\\product\\db77546a-1467-47c6-a238-37bfaf6f9db4.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\db77546a-1467-47c6-a238-37bfaf6f9db4.jpg"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\images\\product\\e43c50fb-3f0d-461f-a9d4-f2360ccd5760.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\e43c50fb-3f0d-461f-a9d4-f2360ccd5760.jpg"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\images\\product\\f61e8e76-139c-412d-b5ef-8fb9d504afe8.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\f61e8e76-139c-412d-b5ef-8fb9d504afe8.jpg"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\images\\slide.jpg",
+      "PackagePath": "staticwebassets\\images\\slide.jpg"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\js\\SweetAlert.js",
+      "PackagePath": "staticwebassets\\js\\SweetAlert.js"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\js\\User.js",
+      "PackagePath": "staticwebassets\\js\\User.js"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\js\\datatable.js",
+      "PackagePath": "staticwebassets\\js\\datatable.js"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\jquery\\dist\\toastr.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\toastr.min.js"
+    },
+    {
+      "Id": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Web\\wwwroot\\lib\\jquery\\dist\\toastr.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\toastr.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DibaEShop.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DibaEShop.Web.props",
+      "PackagePath": "build\\DibaEShop.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DibaEShop.Web.props",
+      "PackagePath": "buildMultiTargeting\\DibaEShop.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DibaEShop.Web.props",
+      "PackagePath": "buildTransitive\\DibaEShop.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,111 @@
+﻿@page
+@model RegisterModel
+@using DibaEShop.Utility;
+@{
+    ViewData["Title"] = "Register";
+}
+<h1></h1>
+
+<div class=" row ">
+    <div class="col  col-3">
+    </div>
+    <div class="col  col-6">
+
+        <h1 class="pt-4">@ViewData["Title"]</h1>
+        <h3>create new user</h3>
+        <form id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="row">
+                <div class="form-floating py-2 col-md-6">
+                    <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" />
+                    <label asp-for="Input.Email"></label>
+                    <span asp-validation-for="Input.Email" class="text-danger"></span>
+                </div>
+                <div class="form-floating py-2 col-md-6">
+                    <input asp-for="Input.Name" class="form-control" autocomplete="name" aria-required="true" />
+                    <label asp-for="Input.Name"></label>
+                    <span asp-validation-for="Input.Name" class="text-danger"></span>
+                </div>
+
+            </div>
+
+            <div class="row">
+                <div class="form-floating py-2 col-md-6">
+                    <input asp-for="Input.ConfirmPassword" class="form-control" autocomplete="new-password" aria-required="true" />
+                    <label asp-for="Input.ConfirmPassword"></label>
+                    <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+                </div>
+                <div class="form-floating py-2 col-md-6">
+                    <input asp-for="Input.Password" class="form-control" autocomplete="new-password" aria-required="true" />
+                    <label asp-for="Input.Password"></label>
+                    <span asp-validation-for="Input.Password" class="text-danger"></span>
+                </div>
+
+
+            </div>
+
+            <div class="row">
+                <div class="form-floating py-2 col-md-6">
+                    <input asp-for="Input.State" class="form-control" autocomplete="username" aria-required="true" />
+                    <label asp-for="Input.State"></label>
+                    <span asp-validation-for="Input.State" class="text-danger"></span>
+                </div>
+                <div class="form-floating py-2 col-md-6">
+                    <input asp-for="Input.Phonenumber" class="form-control" autocomplete="username" aria-required="true" />
+                    <label asp-for="Input.Phonenumber"></label>
+                    <span asp-validation-for="Input.Phonenumber" class="text-danger"></span>
+                </div>
+
+            </div>
+            <div class="row">
+                <div class="form-floating py-2 col-md-6">
+                    <input asp-for="Input.PostalCode" class="form-control" autocomplete="username" aria-required="true" />
+                    <label asp-for="Input.PostalCode"></label>
+                    <span asp-validation-for="Input.PostalCode" class="text-danger"></span>
+                </div>
+                <div class="form-floating py-2 col-md-6">
+                    <input asp-for="Input.City" class="form-control" autocomplete="username" aria-required="true" />
+                    <label asp-for="Input.City"></label>
+                    <span asp-validation-for="Input.City" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row">
+                <div class="form-floating py-2 col-md-12">
+                    <input asp-for="Input.Address" class="form-control" autocomplete="username" aria-required="true" />
+                    <label asp-for="Input.Address"></label>
+                    <span asp-validation-for="Input.Address" class="text-danger"></span>
+                </div>
+                <div class="form-floating py-2 col-md-4">
+                    @* if user is admin show admin & amploye *@
+                    @if (User.IsInRole(SD.Role_Admin))
+                    {
+                        <div class="row">
+                            <label> Choose Users Role</label>
+                            <select asp-for="Input.Role" asp-items="@Model.Input.RoleList" class=form-select>
+
+                                <option disabled selected>-Select Role-</option>
+                            </select>
+                        </div>
+
+                    } @* if user is admin show customer  *@
+                    else
+                    {
+                        <span asp-for="Input.Role" value="Customer" />
+                    }
+
+
+                </div>
+
+            </div>
+            <div class="row">
+                <button id="registerSubmit" type="submit" class=" btn w-100 btn-lg btn-primary">Register</button>
+            </div>
+
+        </form>
+    </div>
+
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    }

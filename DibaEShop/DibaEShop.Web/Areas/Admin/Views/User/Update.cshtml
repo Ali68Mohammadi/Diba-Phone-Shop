@@ -1,0 +1,84 @@
+﻿@using DibaEShop.Models;
+@using DibaEShop.Utility;
+@model ApplicationUser;
+@{
+    ViewData["Title"] = "Update User";
+}
+<div class=" row ">
+    <div class="col  col-3"></div>
+    <div class="col  col-6">
+        <form asp-action="Update" method="post">
+            <h3>Update User :@Model.Name</h3>
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="@Model.Id" />
+            <div class="row">
+                <div class="form-floating py-2 col-md-4">
+                    <input asp-for="@Model.Name" class="form-control" autocomplete="name" aria-required="true" />
+                    <label asp-for="@Model.Name"></label>
+                    <span asp-validation-for="@Model.Name" class="text-danger"></span>
+                </div>
+                <div class="form-floating py-2 col-md-4">
+                    <input asp-for="@Model.State" class="form-control" autocomplete="username" aria-required="true" />
+                    <label asp-for="@Model.State"></label>
+                    <span asp-validation-for="@Model.State" class="text-danger"></span>
+                </div>
+                <div class="form-floating py-2 col-md-4">
+                    <input asp-for="@Model.PhoneNumber" class="form-control" autocomplete="username" aria-required="true" />
+                    <label asp-for="@Model.PhoneNumber"></label>
+                    <span asp-validation-for="@Model.PhoneNumber" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="form-floating py-2 col-md-6">
+                    <input asp-for="@Model.PostalCode" class="form-control" autocomplete="username" aria-required="true" />
+                    <label asp-for="@Model.PostalCode"></label>
+                    <span asp-validation-for="@Model.PostalCode" class="text-danger"></span>
+                </div>
+                <div class="form-floating py-2 col-md-6">
+                    <input asp-for="@Model.City" class="form-control" autocomplete="username" aria-required="true" />
+                    <label asp-for="@Model.City"></label>
+                    <span asp-validation-for="@Model.City" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row">
+                <div class="form-floating py-2 col-md-12">
+                    <input asp-for="@Model.Address" class="form-control" autocomplete="username" aria-required="true" />
+                    <label asp-for="@Model.Address"></label>
+                    <span asp-validation-for="@Model.Address" class="text-danger"></span>
+                </div>
+                @*<div class="form-floating py-2 col-md-4">
+
+                @if (User.IsInRole(SD.Role_Admin))
+                {
+                <div class="row">
+                <label> Choose Users Role</label>
+                <select asp-for="@Model." asp-items="@Model.RoleList" class=form-select>
+
+                <option disabled selected>-Select Role-</option>
+                </select>
+                </div>
+
+                }
+                else
+                {
+
+                <span asp-for="@Model." value="Customer" />
+                }
+
+
+                </div>*@
+
+            </div>
+            <div class="row">
+                <button type="submit" class=" btn w-100 btn-lg btn-primary">Update</button>
+            </div>
+
+        </form>
+    </div>
+
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    }

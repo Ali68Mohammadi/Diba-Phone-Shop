@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "OnlinePayment";
+}
+
+
+
+<div class="container">
+    @if (ViewBag.IsSuccess == true)
+    {
+
+        <div class="container row pt-4">
+            <div class="col-12 text-center">
+                <h1 class="text-primary text-center">Order Placed Successfully</h1>
+                Your Tracking Number is: @ViewBag.code <br /><br />
+                <img src="~/images/payment-done.jpg" width="65%" />
+            </div>
+            <div class="col-12 text-center" style="color:maroon">
+                <br />
+                ! Your order has been placed successfully <br />
+
+            </div>
+        </div>
+                
+    }
+   else
+    {
+
+        <div class="container row pt-4">
+            <div class="col-12 text-center">
+                <h1 class="text-primary text-center">! Sorry  </h1>
+                 <br /><br />
+                <img src="~/images/payment-cancelled.jpg" width="65%" />
+            </div>
+            <div class="col-12 text-center" style="color:maroon">
+                <br />
+                Your order has been Faild! <br />
+
+            </div>
+        </div>
+
+    }
+</div>

@@ -1,0 +1,166 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.DataAccess\\DibaEShop.DataAccess.csproj": {}
+  },
+  "projects": {
+    "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.DataAccess\\DibaEShop.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.DataAccess\\DibaEShop.DataAccess.csproj",
+        "projectName": "DibaEShop.DataAccess",
+        "projectPath": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.DataAccess\\DibaEShop.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\a\\.nuget\\packages\\",
+        "outputPath": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Models\\DibaEShop.Models.csproj": {
+                "projectPath": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Models\\DibaEShop.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.26, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.26, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.26, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.26, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.26, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Models\\DibaEShop.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Models\\DibaEShop.Models.csproj",
+        "projectName": "DibaEShop.Models",
+        "projectPath": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Models\\DibaEShop.Models.csproj",
+        "packagesPath": "C:\\Users\\a\\.nuget\\packages\\",
+        "outputPath": "E:\\amozesh\\.net Core Razor Pages-khorasani\\_Project\\DibaEShop-13-soft delete\\DibaEShop\\DibaEShop.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[6.0.27, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

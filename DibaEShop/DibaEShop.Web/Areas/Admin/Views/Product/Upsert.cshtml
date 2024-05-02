@@ -1,0 +1,106 @@
+﻿@model DibaEShop.Models.ViewModels.ProductVM
+
+<form method="post" asp-action="Upsert" enctype="multipart/form-data">
+    <input asp-for="Product.ProductId" hidden />
+    <input asp-for="Product.ImageUrl" hidden />
+    <div class="row">
+        <div class="col-6 " >
+            <div class="border p-3  ">
+                <div class="col-12 ">
+                    <h2 >@(Model.Product.ProductId != 0 ? "Update" : "Create")  Product</h2>
+                    <hr />
+                </div>
+                <div asp-validation-summary="All"></div>
+                <div class=" mb-3 col-12">
+                    <label asp-for="Product.Title"></label>
+                    <input asp-for="Product.Title" class="form-control" />
+                    <span asp-validation-for="Product.Title" class="text-danger"></span>
+                </div>
+                <hr />
+                <div class=" mb-3 col-12">
+                    <label asp-for="Product.Description"></label>
+                    <textarea asp-for="Product.Description" rows="3" class="form-control"></textarea>
+                    <span asp-validation-for="Product.Description" class="text-danger"></span>
+                </div>
+                <hr />
+                <div class=" mb-3 col-12">
+                    <label asp-for="Product.Price"></label>
+                    <input asp-for="Product.Price" class="form-control" />
+                    <span asp-validation-for="Product.Price" class="text-danger"></span>
+                </div>
+                <hr />
+                <div class="col-12 mb-3">
+                    <label asp-for="Product.ImageUrl"></label>
+                    <input type="file" id="uploadBox" name="file" class="form-control" />
+                </div>
+                <hr />
+                <div class=" mb-3 col-12">
+                    <label asp-for="Product.CategoryId"></label>
+                    <hr />
+                    <select asp-for="Product.CategoryId" asp-items="@Model.CategoryList" class="form-select">
+                        <option>--Select Category--</option>
+                    </select>
+                    <span asp-validation-for="Product.CategoryId" class="text-danger"></span>
+                </div>
+                <hr />
+
+                <div class=" col-12">
+                    @if (Model.Product.ProductId != 0)
+                    {
+                        <button type="submit" class="btn btn-primary" style="width:150px">Update</button>
+                    }
+                    else
+                    {
+                        <button type="submit" onclick="return ValidateInput()" class="btn btn-primary" style="width:150px">Create</button>
+                    }
+                    <a asp-controller="Product" asp-action="Index" class="btn btn-secondary">
+                        Back to List
+                    </a>
+                </div>
+
+            </div>
+        </div>
+        @if (Model.Product.ProductId != 0)
+        {
+            <div class="col-3 pt-4">
+                <img src="@Model.Product.ImageUrl"
+                     class="product-border" />
+
+            </div>
+        }
+    </div>
+</form>
+
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+
+    }
+    <script>
+
+
+        tinymce.init({
+            forced_root_block: "",
+            selector: 'textarea',
+                plugins: "paste",
+            paste_auto_cleanup_on_paste: true,
+            paste_remove_styles: true,
+            paste_remove_styles_if_webkit: true,
+            paste_strip_class_attributes: "all",
+          
+        });
+
+
+        function ValidateInput() {
+            if (document.getElementById("uploadBox").value == "") {
+                Swal.fire({
+                    icon: 'error',
+                    title: 'Oops...',
+                    text: 'Please upload an Image!',
+                });
+                return false;
+            }
+            return true;
+        }
+    </script>
+}
